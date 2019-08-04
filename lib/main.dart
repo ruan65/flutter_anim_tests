@@ -4,6 +4,10 @@ import 'package:flutter/material.dart';
 void main() => runApp(MyApp());
 
 class MyApp extends StatelessWidget {
+  
+  // this is test string created on the remote
+  String remoteTestStr = 'remote test str';
+  
   @override
   Widget build(BuildContext context) {
     return MaterialApp(
