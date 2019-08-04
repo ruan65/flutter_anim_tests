@@ -1,6 +1,8 @@
 import 'package:flutter/material.dart';
 
 class AnimOneScreen extends StatefulWidget {
+  String testString = 'test string';
+
   @override
   _AnimOneScreenState createState() => _AnimOneScreenState();
 }
