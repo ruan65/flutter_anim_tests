@@ -1,4 +1,4 @@
-import 'package:fl_anim_tests/Anim1Screen.dart';
+import 'package:fl_anim_tests/anim_1_screen.dart';
 import 'package:flutter/material.dart';
 
 void main() => runApp(MyApp());
